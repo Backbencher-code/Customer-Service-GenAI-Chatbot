@@ -54,8 +54,8 @@ Customer Service GenAI Chatbot/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Backbencher-code/customer-service-chatbot.git
-cd customer-service-chatbot
+git clone https://github.com/Backbencher-code/Customer-Service-GenAI-Chatbot.git
+cd Customer-Service-GenAI-Chatbot
 
 # Create and activate virtual environment
 python -m venv venv_chatbot
